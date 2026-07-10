@@ -1,0 +1,5 @@
+﻿[D-BUS Service]
+Name=org.lingmo.Daemon
+Interface=org.lingmo.Daemon
+Exec=/usr/bin/lingmo-daemon
+User=root
